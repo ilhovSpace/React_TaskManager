@@ -1,3 +1,7 @@
+Task Manager App
+
+<img src='http://ilhov.space/img-github/task_manager_app.png'>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
